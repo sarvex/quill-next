@@ -10,7 +10,5 @@
     "tab.activeBorder": "#9214d6"
   },
   "peacock.color": "#7210a7",
-  "marquee.widgets.npm-stats.packageNames": [
-    "quill"
-  ]
+  "marquee.widgets.npm-stats.packageNames": ["quill"]
 }
