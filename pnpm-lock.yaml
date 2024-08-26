@@ -56,7 +56,7 @@ importers:
         version: 14.2.3(eslint@9.3.0)(typescript@5.5.4)
       eslint-config-prettier:
         specifier: ^9.0.0
-        version: 9.0.0(eslint@9.3.0)
+        version: 9.1.0(eslint@9.3.0)
       postcss:
         specifier: 8.4.33
         version: 8.4.33
@@ -585,8 +585,8 @@ packages:
       typescript:
         optional: true
 
-  eslint-config-prettier@9.0.0:
-    resolution: {integrity: sha512-IcJsTkJae2S35pRsRAwoCE+925rJJStOdkKnLVgtE+tEpqU0EVVM7OqrwxqgptKdX29NUwC82I5pXsGFIgSevw==}
+  eslint-config-prettier@9.1.0:
+    resolution: {integrity: sha512-NSWl5BFQWEPi1j4TjVNItzYV7dZXZ+wP6I6ZhrBGpChQhZRUaElihE9uRRkcbRnNb76UMKDF3r+WTmNcGPKsqw==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
@@ -2111,7 +2111,7 @@ snapshots:
       - eslint-import-resolver-webpack
       - supports-color
 
-  eslint-config-prettier@9.0.0(eslint@9.3.0):
+  eslint-config-prettier@9.1.0(eslint@9.3.0):
     dependencies:
       eslint: 9.3.0
 
